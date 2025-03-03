@@ -1,5 +1,16 @@
 {
   "dependencies": {
+    "expo": "^52.0.37",
     "react-native-safe-area-context": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-expo": "~8.0.1",
+    "eslint-config-prettier": "^10.0.2",
+    "eslint-plugin-prettier": "^5.2.3",
+    "prettier": "^3.5.3"
+  },
+  "scripts": {
+    "lint": "eslint ."
   }
 }
