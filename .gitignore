@@ -1,3 +1,4 @@
-# Ignore project notes
+node_modules
+
 notes/
 *.txt
